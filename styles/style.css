@@ -1,0 +1,36 @@
+html {
+    font-size: 10px; 
+    font-family: "Quicksand", sans-serif;
+    text-align: center;
+    background-color: #a3d1ff;
+}
+
+h1 {
+    font-size: 40px; 
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 2px grey;
+}
+
+p {
+    font-size: 16px; 
+    line-height: 1.5; 
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+li {
+    font-size: 16px; 
+    line-height: 1.5; 
+    letter-spacing: 1px;
+    text-align: left;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fcffe5;
+    padding: 20px 20px 20px 20px;
+    border: 3px solid black;
+  }
